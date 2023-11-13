@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0O23KhFn/Oev0IS334dJrR2OfCKx4uXmNCQ5X6KSnlztn6DVq0Mc73wUIg30gJD7EsKmHU5KyvgtLHOHduj0Ag==",
+  "success": true,
+  "projectFilePath": "/home/joeychen/Documents/asu software design/project 4/0/BMIService_REST/BMIService.csproj",
+  "expectedPackageFiles": [
+    "/home/joeychen/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/joeychen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "etHAeXXXjXbfysKvF6cII8nmDMJ6WOU5daSDw2Uxbck=",
+  "Source": "BMIService",
+  "BasePath": "_content/BMIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

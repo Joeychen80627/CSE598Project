@@ -1,0 +1,22 @@
+﻿1. Project Title and Description Project Title:
+	BMIService REST API Description: A project for BMI 	calculation, with 	testing 	conducted using Swagger UI
+2. Project Installation
+	Provide any installation instructions for the project, including steps for 	installing dependencies.
+       To initiate the project, use the command: 
+        ◦ dotnet new webapi -o BMIService
+3. Project Usage
+      • BMI formula
+    	•In my country, we do not use imperial units; we exclusively use centimeters and meters. Therefore, in the testing conditions, weight is measured in kilograms, and height is measured in   
+    	centimeters.
+    	•(Weight / (Height/100 * Height/100))
+4. Project Structure Utilizing the MVC pattern with integrated Swagger UI.
+        ◦ Controllers
+            ▪ BMIController_REST.cs
+        ◦ BMI.cs
+        ◦ Program.cs
+
+	
+
+
+
+
